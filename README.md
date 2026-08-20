@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0347-top-k-frequent-elements) |
+| [0905-sort-array-by-parity](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0905-sort-array-by-parity) |
 | [1732-find-the-highest-altitude](https://github.com/kushal29347/problem-testing-on-java-/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0027-remove-element) |
+| [0905-sort-array-by-parity](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0347-top-k-frequent-elements) |
+| [0905-sort-array-by-parity](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
