@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -65,8 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0021-merge-two-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kushal29347/problem-testing-on-java-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
